@@ -1,6 +1,6 @@
 ## 🙋‍♂️ About Me
 
-- 🎓 I'm a Junior undergrade at the Mechanical Department, IIT Jodhpur.
+- 🎓 I'm a Junior undergraduate at the Mechanical Department, IIT Jodhpur.
 - 🌱 I’m currently learning MERN Stack Web Development.
 - 📫 How to reach me: [pamarthirohith2005@gmail.com](mailto:pamarthirohith2005@gmail.com) or [b23me1042@iitj.ac.in](mailto:b23me1042@iitj.ac.in)
 - 🤝 I’m looking to collaborate on open-source projects.
